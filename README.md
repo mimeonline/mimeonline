@@ -76,7 +76,7 @@ learn -> build -> apply -> map -> refine
 ## Knowledge Systems Map
 
 <p align="center">
-  <img src="./assets/knowledge-systems-map.svg" alt="Knowledge Systems Map: knowledge becomes graph context, retrieval grounds reasoning, decisions create feedback." />
+  <img src="./assets/knowledge-systems-map.svg?v=2026-06-11-1205" alt="Knowledge Systems Map: knowledge becomes graph context, retrieval grounds reasoning, decisions create feedback." />
 </p>
 
 ---
