@@ -48,13 +48,14 @@ My work sits between architecture, knowledge management, AI engineering and deci
 
 | Project | Why it exists |
 | --- | --- |
-| [System GraphRAG Lab](https://github.com/mimeonline/system-graph-rag-lab) | A spec-first architecture lab for traceable GraphRAG and auditable decision paths |
-| [Multi Agent Architecture](https://github.com/mimeonline/multi-agent-architecture) | A visual collection of patterns for agent and multi-agent systems |
+| [Meierhoff Systems](https://meierhoff-systems.de/) | My public home for AI systems, software architecture and practical system thinking |
+| [GraphRAG Lab](https://graphrag-lab.meierhoff-systems.de/de) | A hands-on lab for GraphRAG, retrieval architecture and traceable AI systems |
+| [System Thinking for Architects](https://system-thinking.meierhoff-systems.de/de) | Practical system thinking for software and enterprise architects |
+| [GraphRAG Compass](https://graphrag-compass.meierhoff-systems.de/) | A field guide for GraphRAG, knowledge graphs, retrieval and enterprise agents |
+| [Method Atlas](https://methodatlas.meierhoff-systems.de/) | An interactive method atlas for product, architecture, strategy and delivery work |
 | [Nexonoma App](https://github.com/mimeonline/nexonoma-app) | A structure-first web platform for making complex knowledge models explicit |
-| [Meierhoff Systems Lab](https://github.com/mimeonline/meierhoff-systems-lab) | Workshops, live coding sessions and experiments around AI systems, architecture and system thinking |
-| [mimeonline.github.io](https://github.com/mimeonline/mimeonline.github.io) | Public GitHub Pages space for my website and experiments |
 
-Other ongoing work includes Method Atlas, GraphRAG Compass, architecture mapping, C4 automation and explainable political intelligence.
+Other ongoing work includes architecture mapping, C4 automation, agentic coding workflows and explainable intelligence systems.
 
 ---
 
