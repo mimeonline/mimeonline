@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="420" viewBox="0 0 1180 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="500" viewBox="0 0 1180 500" role="img" aria-labelledby="title desc">
   <title id="title">Knowledge Systems Map</title>
   <desc id="desc">A visual map connecting knowledge, graph, retrieval, reasoning and decisions through feedback loops.</desc>
   <defs>
@@ -36,59 +36,59 @@
     </style>
   </defs>
 
-  <rect width="1180" height="420" rx="28" fill="url(#surface)"/>
-  <rect x="26" y="26" width="1128" height="368" rx="24" fill="#ffffff" opacity="0.78"/>
+  <rect width="1180" height="500" rx="28" fill="url(#surface)"/>
+  <rect x="26" y="26" width="1128" height="448" rx="24" fill="#ffffff" opacity="0.78"/>
 
   <text x="72" y="76" class="micro">AI &amp; KNOWLEDGE SYSTEMS</text>
   <text x="72" y="112" class="label">From scattered context to traceable decisions</text>
   <text x="72" y="140" class="small">A working loop for architecture, discovery, retrieval and system understanding.</text>
 
-  <path class="line" d="M 238 244 C 286 220, 326 220, 374 244"/>
-  <path class="line" d="M 510 244 C 558 220, 598 220, 646 244"/>
-  <path class="line" d="M 782 244 C 830 220, 870 220, 918 244"/>
-  <path class="soft-line" d="M 990 298 C 790 376, 418 376, 176 296"/>
-  <path class="soft-line" d="M 590 188 C 590 154, 590 144, 590 126"/>
+  <path class="line" d="M 238 328 C 278 304, 316 304, 356 328"/>
+  <path class="line" d="M 552 328 C 586 304, 614 304, 648 328"/>
+  <path class="line" d="M 842 328 C 872 304, 892 304, 922 328"/>
+  <path class="soft-line" d="M 996 384 C 790 446, 418 446, 176 382"/>
+  <path class="soft-line" d="M 590 278 C 590 254, 590 248, 590 238"/>
 
   <g class="node">
-    <rect x="74" y="194" width="166" height="112" rx="18" fill="#ffffff" stroke="#bfdbfe"/>
-    <rect x="74" y="194" width="166" height="8" rx="4" fill="url(#blue)"/>
-    <text x="102" y="242" class="label">Knowledge</text>
-    <text x="102" y="270" class="small">documents, code,</text>
-    <text x="102" y="290" class="small">people, decisions</text>
+    <rect x="74" y="278" width="166" height="112" rx="18" fill="#ffffff" stroke="#bfdbfe"/>
+    <rect x="74" y="278" width="166" height="8" rx="4" fill="url(#blue)"/>
+    <text x="102" y="326" class="label">Knowledge</text>
+    <text x="102" y="354" class="small">documents, code,</text>
+    <text x="102" y="374" class="small">people, decisions</text>
   </g>
 
   <g class="node">
-    <rect x="374" y="194" width="166" height="112" rx="18" fill="#ffffff" stroke="#ddd6fe"/>
-    <rect x="374" y="194" width="166" height="8" rx="4" fill="url(#violet)"/>
-    <text x="414" y="242" class="label">Graph</text>
-    <text x="414" y="270" class="small">entities, relations,</text>
-    <text x="414" y="290" class="small">meaningful context</text>
+    <rect x="356" y="278" width="198" height="112" rx="18" fill="#ffffff" stroke="#ddd6fe"/>
+    <rect x="356" y="278" width="198" height="8" rx="4" fill="url(#violet)"/>
+    <text x="400" y="326" class="label">Graph</text>
+    <text x="392" y="354" class="small">entities, relations,</text>
+    <text x="392" y="374" class="small">meaningful context</text>
   </g>
 
   <g class="node">
-    <rect x="646" y="194" width="166" height="112" rx="18" fill="#ffffff" stroke="#bbf7d0"/>
-    <rect x="646" y="194" width="166" height="8" rx="4" fill="url(#green)"/>
-    <text x="684" y="242" class="label">Retrieval</text>
-    <text x="684" y="270" class="small">evidence, ranking,</text>
-    <text x="684" y="290" class="small">grounded answers</text>
+    <rect x="648" y="278" width="196" height="112" rx="18" fill="#ffffff" stroke="#bbf7d0"/>
+    <rect x="648" y="278" width="196" height="8" rx="4" fill="url(#green)"/>
+    <text x="688" y="326" class="label">Retrieval</text>
+    <text x="686" y="354" class="small">evidence, ranking,</text>
+    <text x="686" y="374" class="small">grounded answers</text>
   </g>
 
   <g class="node">
-    <rect x="918" y="194" width="188" height="112" rx="18" fill="#ffffff" stroke="#fed7aa"/>
-    <rect x="918" y="194" width="188" height="8" rx="4" fill="#f59e0b"/>
-    <text x="956" y="242" class="label">Decision</text>
-    <text x="956" y="270" class="small">options, trade-offs,</text>
-    <text x="956" y="290" class="small">traceable outcomes</text>
+    <rect x="922" y="278" width="188" height="112" rx="18" fill="#ffffff" stroke="#fed7aa"/>
+    <rect x="922" y="278" width="188" height="8" rx="4" fill="#f59e0b"/>
+    <text x="960" y="326" class="label">Decision</text>
+    <text x="960" y="354" class="small">options, trade-offs,</text>
+    <text x="960" y="374" class="small">traceable outcomes</text>
   </g>
 
   <g class="node">
-    <rect x="488" y="68" width="204" height="82" rx="18" fill="#0f172a"/>
-    <text x="535" y="105" class="label-light">Reasoning</text>
-    <text x="527" y="130" class="small-light">agents, models, critique</text>
+    <rect x="488" y="156" width="204" height="82" rx="18" fill="#0f172a"/>
+    <text x="535" y="193" class="label-light">Reasoning</text>
+    <text x="527" y="218" class="small-light">agents, models, critique</text>
   </g>
 
-  <text x="270" y="218" class="micro">STRUCTURE</text>
-  <text x="552" y="218" class="micro">SELECT</text>
-  <text x="826" y="218" class="micro">APPLY</text>
-  <text x="514" y="360" class="micro">FEEDBACK: LEARN, MAP, REFINE</text>
+  <text x="264" y="302" class="micro">STRUCTURE</text>
+  <text x="570" y="302" class="micro">SELECT</text>
+  <text x="860" y="302" class="micro">APPLY</text>
+  <text x="514" y="470" class="micro">FEEDBACK: LEARN, MAP, REFINE</text>
 </svg>
