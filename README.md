@@ -72,6 +72,14 @@ learn -> build -> apply -> map -> refine
 
 ---
 
+## Knowledge Systems Map
+
+<p align="center">
+  <img src="./assets/knowledge-systems-map.svg" alt="Knowledge Systems Map: knowledge becomes graph context, retrieval grounds reasoning, decisions create feedback." />
+</p>
+
+---
+
 ## Toolkit
 
 <p align="center">
